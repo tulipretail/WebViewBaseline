@@ -4,7 +4,9 @@ WebViewBaseline provides a simple starting point for any new HTML/Javascript/CSS
 
 What this baseline provides:
 
-- HTML5 home page
+- HTML5 template
 - Viewport settings to avoid pinch, scaling, resizing, etc.
 - Apple-specific metadata
 - Common CSS hacks to make the WebView feel more native
+
+To make your app feel native, it's important to leave scrolling, navigation, and animation to iOS-native components.
